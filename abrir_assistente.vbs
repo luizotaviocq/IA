@@ -1,0 +1,1 @@
+CreateObject("Wscript.Shell").Run "cmd /c executar_ia.bat", 0, False

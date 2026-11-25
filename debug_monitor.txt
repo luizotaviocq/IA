@@ -1,0 +1,899 @@
+[19:43:56] Iniciando processo principal...
+[19:43:56] Servidor Streamlit disparado em segundo plano.
+[19:43:56] Monitor vocal iniciado. Aguardando 'fala L4M'...
+[19:44:05] Ouvi: pega a visão
+[19:44:05] Ouvi: pega a visão
+[19:44:08] Ouvi: olha minha tela
+[19:44:08] Ouvi: pare minha tela
+[19:44:15] Ouvi: tá vendo
+[19:44:15] Ouvi: tá vendo
+[19:44:17] Ouvi: olha olha também
+[19:44:17] Ouvi: olha olha também
+[19:44:23] Ouvi: quantidade de almofadas 2
+[19:44:24] Ouvi: quantidade de almofadas 2
+[19:44:28] Ouvi: português
+[19:44:28] Ouvi: português
+[19:44:35] Ouvi: mostrar só uma vez
+[19:44:35] Ouvi: mostrar só uma vez
+[19:44:41] Ouvi: ó fala assistente
+[19:44:41] Palavra de ativação detectada! Abrindo navegador...
+[19:44:41] Ouvi: ó fala assistente
+[19:44:41] Palavra de ativação detectada! Abrindo navegador...
+[19:44:50] Ouvi: assim que é maneiro
+[19:44:50] Ouvi: assim que é maneiro
+[19:44:56] Ouvi: travou não tá carregando tipo ela roda no meu pc tá ligado
+[19:44:56] Ouvi: travou não tá carregando tipo ela roda no meu pc tá ligado
+[19:45:02] Ouvi: deve ter privado
+[19:45:02] Ouvi: deve ter privado
+[19:45:09] Ouvi: tá mano claro que tá mano é
+[19:45:09] Ouvi: tá mano claro que tá mano é
+[19:45:15] Ouvi: a roda consome o computador inteiro aí 10 gb de ram que ela tá usando 34
+[19:45:15] Ouvi: roda consome o computador inteiro aí 10 gb de ram que ela tá usando 34%
+[19:45:21] Ouvi: 40% do processador deve tá comendo a minha
+[19:45:21] Ouvi: 40% do processador deve tá comendo a minha placa de
+[19:45:26] Ouvi: ó ela abre xinga cadê
+[19:45:26] Ouvi: ó ela abre xinga cadê
+[19:45:34] Ouvi: se eu mandar ela abrir alarme o código dela
+[19:45:34] Ouvi: turma da gabriela abre o código dela
+[19:45:37] Ouvi: olha muito não
+[19:45:37] Ouvi: olha muito não
+[19:45:40] Ouvi: foi maneirinho
+[19:45:40] Ouvi: foi maneirinho
+[19:45:45] Ouvi: é uma merda
+[19:45:45] Ouvi: é uma merda
+[19:45:55] Ouvi: sei lá também
+[19:45:55] Ouvi: sei lá também
+[19:45:59] Ouvi: tá lá 25 conto fifa
+[19:45:59] Ouvi: tá lá 25 conto fifa
+[19:46:06] Ouvi: dead by daylight resident evil
+[19:46:06] Ouvi: dead by daylight resident evil
+[19:46:10] Ouvi: 22 25 contra o fifa 16
+[19:46:10] Ouvi: 22 25 conto fifa 16
+[19:46:27] Ouvi: mas vai ser com construção
+[19:46:27] Ouvi: mas vai ser com construção
+[19:46:38] Ouvi: beijo para fazer
+[19:46:42] Ouvi: papo reto
+[19:46:42] Ouvi: vou fazer só porque gosto de turma papo reto
+[19:46:48] Ouvi: lógico mano mas porra eu gosto mais da minha sanidade
+[19:46:49] Ouvi: lógico mano mas porra eu gosto mais da minha sanidade
+[19:46:54] Ouvi: só não leve oi
+[19:46:54] Ouvi: só não leve oi
+[19:47:00] Ouvi: volta paz
+[19:47:00] Ouvi: muita paz
+[19:47:09] Ouvi: não tem muito lá
+[19:47:09] Ouvi: nota e muito lá
+[19:47:14] Ouvi: bola tem todas as pedras evoluções lá
+[19:47:14] Ouvi: bola tem todas as pedras evoluções
+[19:47:29] Ouvi: quer comprar meu computador logo não mano
+[19:47:29] Ouvi: quer comprar meu computador logo não
+[19:47:39] Ouvi: comprar
+[19:47:39] Ouvi: mas eu já eu já vou tipo mesmo você sabe que eu vou comprar
+[19:47:43] Ouvi: eu não jogo esse jogo a muito tempo que eu não gosto
+[19:47:43] Ouvi: eu não jogo esse jogo há muito tempo que eu não gosto
+[19:47:46] Ouvi: continua em carro
+[19:47:46] Ouvi: mas continua em carro
+[19:48:04] Ouvi: tem que entrar para uma apreciação privada mas será que vale a pena mano
+[19:48:04] Ouvi: tem que entrar para uma prestação privada mano você acha será que vale a pena mano
+[19:48:08] Ouvi: fifa 26
+[19:48:08] Ouvi: fifa 26
+[19:48:17] Ouvi: pô mas é que tá praticamente de graça
+[19:48:17] Ouvi: pô mas é que tá pô praticamente de graça
+[19:48:24] Ouvi: eu não tô com 25 pontos no peito só tem na mão
+[19:48:24] Ouvi: eu não tô com 25 pontos no peito só tem na mão
+[19:48:32] Ouvi: perdi meu dinheiro
+[19:48:32] Ouvi: perdi meu dinheiro
+[19:48:43] Ouvi: pronto achei
+[19:48:44] Ouvi: pronto achei
+[19:48:58] Ouvi: será que
+[19:48:58] Ouvi: verdade
+[19:49:10] Ouvi: não mãe obrigado
+[19:49:10] Ouvi: não mãe obrigado
+[19:49:22] Ouvi: eu tenho que fazer também entendeu
+[19:49:22] Ouvi: músicas eu tenho que fazer também entendeu
+[19:49:51] Ouvi: pô eu tava dando 30 por hora mano tava com pena tava com medo
+[19:49:51] Ouvi: pô eu tava dando 30 por hora mano tava com pena tava com medo
+[19:49:59] Ouvi: não pô aí pô você não tá com pressa eu tô
+[19:49:59] Ouvi: não pô aí pô você não tá com pressa eu tô
+[19:50:05] Ouvi: foi
+[19:50:11] Ouvi: foi arrumar um problema
+[19:50:11] Ouvi: foi arrumar um problema
+[19:50:16] Ouvi: chegou a
+[19:50:16] Ouvi: chegou
+[19:50:23] Ouvi: não faço ideia deve ter um botãozinho de emoj
+[19:50:23] Ouvi: não faço ideia deve ter um botãozinho de emoj
+[19:50:31] Ouvi: busca
+[19:50:31] Ouvi: busca
+[19:50:38] Ouvi: oi
+[19:50:38] Ouvi: oi
+[19:50:42] Ouvi: você sempre foi
+[19:50:42] Ouvi: você sempre foi
+[19:50:52] Ouvi: tá dando muita bunda
+[19:51:04] Ouvi: não fala para o james que eu sair
+[19:51:05] Ouvi: não fala para o james que eu sair
+[19:51:12] Ouvi: alô
+[19:51:12] Ouvi: alô
+[19:51:26] Ouvi: notícia
+[19:51:26] Ouvi: notícia
+[19:51:29] Ouvi: de núpcia
+[19:51:29] Ouvi: de núpcia
+[19:51:42] Ouvi: spotify
+[19:51:42] Ouvi: spotify
+[19:51:48] Ouvi: a cara do crime
+[19:51:48] Ouvi: a cara do crime
+[19:52:02] Ouvi: pesquisar a cara do
+[19:52:02] Ouvi: pesquisar a cara do
+[19:52:10] Ouvi: olha a velocidade
+[19:52:10] Ouvi: de olha a velocidade
+[19:52:17] Ouvi: bem
+[19:52:17] Ouvi: bem
+[19:52:25] Ouvi: blusa de
+[19:52:25] Ouvi: pica-pau a luta de
+[19:52:38] Ouvi: faz tempo mas não gosto
+[19:52:38] Ouvi: gostei pô mas não gosto
+[19:52:44] Ouvi: ver vaso preto rico quando vale mais
+[19:52:44] Ouvi: ver vaso preto rico quando vale mais
+[19:52:50] Ouvi: melhor banda
+[19:52:50] Ouvi: melhor mano
+[19:52:56] Ouvi: quer sentar para nós já
+[19:52:56] Ouvi: casa da vovó
+[19:53:03] Ouvi: leite novinha
+[19:53:03] Ouvi: leite novinha
+[19:53:17] Ouvi: não nem conversa
+[19:53:17] Ouvi: não nem conversa
+[19:55:35] Ouvi: estou com piroca
+[19:55:37] Ouvi: toca piroca daquele jeito um
+[19:55:41] Ouvi: na tua direção
+[19:55:42] Ouvi: na tua direção
+[19:55:46] Ouvi: o pretinho gostoso
+[19:55:46] Ouvi: o pretinho gostoso
+[19:55:49] Ouvi: enforcamento
+[19:55:49] Ouvi: enforcamento
+[19:55:52] Ouvi: me absorvendo
+[19:55:52] Ouvi: vai me absorvendo
+[19:56:01] Ouvi: para tela
+[19:56:01] Ouvi: para tela
+[19:56:04] Ouvi: essa é boa
+[19:56:04] Ouvi: essa é boa
+[19:56:55] Ouvi: número da paula na tua direção
+[19:56:55] Ouvi: número da bala na tua direção
+[19:56:58] Ouvi: perigoso
+[19:57:02] Ouvi: uma semana sem foder
+[19:57:02] Ouvi: uma semana sem foder
+[19:57:13] Ouvi: baixar música tava na tua igreja
+[19:57:13] Ouvi: baixar música tava na tua igreja
+[19:57:17] Ouvi: ah tá então vamos parar vamos
+[19:57:18] Ouvi: ah tá então vamos parar vamos
+[19:57:20] Ouvi: pastor
+[19:57:23] Ouvi: obrigado
+[19:57:23] Ouvi: obrigado
+[19:57:31] Ouvi: retardado
+[19:57:38] Ouvi: quer me dar vida é isso que entendi
+[19:57:38] Ouvi: quer me dar vida é isso que entendi
+[19:57:56] Ouvi: uruguai
+[19:58:00] Ouvi: molesta
+[19:58:01] Ouvi: instalar molestado seu merda
+[19:58:04] Ouvi: não não pode não desculpa
+[19:58:04] Ouvi: não não pode não desculpa
+[19:59:35] Ouvi: não tem pokémon go
+[19:59:35] Ouvi: não tem pokémon go
+[19:59:39] Ouvi: pokémon go
+[19:59:40] Ouvi: pokémon gold
+[20:01:03] Ouvi: não não tô vendo ela não já também da partida
+[20:01:03] Ouvi: não não tô vendo ela não já também da partida
+[20:03:21] Ouvi: melhor que assis
+[20:03:22] Ouvi: melhor classic quer escolher ainda
+[20:03:51] Ouvi: cara tô brincando
+[20:03:51] Ouvi: pô tu deu o meu relógio para o cara tô brincando
+[20:03:59] Ouvi: passa o endereço
+[20:03:59] Ouvi: passa o endereço
+[20:04:10] Ouvi: mexe no cara dele não
+[20:04:10] Ouvi: mexe no cara dele não
+[20:04:12] Ouvi: tava prego
+[20:04:22] Ouvi: é demais também mano
+[20:04:22] Ouvi: é demais também mano
+[20:06:35] Ouvi: mentira
+[20:06:46] Ouvi: gumball black
+[20:06:46] Ouvi: gumball black
+[20:06:51] Ouvi: meu pau
+[20:06:51] Ouvi: meu pau
+[20:07:08] Ouvi: chorou chora chora
+[20:07:08] Ouvi: chorou chora chora
+[20:07:41] Ouvi: atendimento você não recebe pokémon
+[20:07:41] Ouvi: atendimento você não recebe pokémon
+[20:08:04] Ouvi: você pode tudo aquilo que te forta
+[20:08:12] Ouvi: frases do digimon em terra de cego quem enxerga é
+[20:08:12] Ouvi: frases do digimon em terra de cego quem enxerga é
+[20:08:16] Ouvi: não é
+[20:08:16] Ouvi: não é
+[20:08:20] Ouvi: dúvida
+[20:08:20] Ouvi: duvida
+[20:08:23] Ouvi: eu duvido ela
+[20:08:26] Ouvi: não tem co
+[20:08:28] Ouvi: tu não tem coragem eu duvido papo reto
+[20:08:31] Ouvi: 30 amigos
+[20:08:31] Ouvi: comentei teu amigo
+[20:08:37] Ouvi: cobertura de
+[20:08:37] Ouvi: cobertura de
+[20:08:47] Ouvi: prevaricação
+[20:08:47] Ouvi: prevaricação
+[20:08:55] Ouvi: endereço me explicar o que que é
+[20:08:55] Ouvi: endereço me explicar o que que é
+[20:08:58] Ouvi: visão no pics
+[20:08:58] Ouvi: visão no pics
+[20:09:07] Ouvi: 21
+[20:09:07] Ouvi: 21
+[20:09:11] Ouvi: mira
+[20:09:12] Ouvi: mira
+[20:09:15] Ouvi: vou te perder r$ 100 no conto mano
+[20:09:15] Ouvi: te perder r$ 100 no conto mano
+[20:09:21] Ouvi: não tenho nada a ver com isso irmão não é porque você é ruim
+[20:09:21] Ouvi: não tenho nada a ver com isso irmão não é porque você é ruim
+[20:09:24] Ouvi: entendeu
+[20:09:31] Ouvi: eu sou eu sou eu sou
+[20:09:31] Ouvi: eu sou eu sou eu sou
+[20:09:37] Ouvi: me passa sua conta mix que o tela aqui para ele
+[20:09:37] Ouvi: me passa sua conta mix que o tela aqui para ele
+[20:09:42] Ouvi: aí dá certo
+[20:09:42] Ouvi: aí dá certo
+[20:09:50] Ouvi: vai que ele passa na inocêncio
+[20:09:50] Ouvi: vai que ele passa na inocência
+[20:09:56] Ouvi: mas não vou fazer nada sou tranquilão virou sabe só beber duas vezes
+[20:09:57] Ouvi: mas não vou fazer nada sou tranquilão virou sabe só beber duas vezes
+[20:10:03] Ouvi: então pode ter ideia então
+[20:10:03] Ouvi: então pode ter ideia então
+[20:10:14] Ouvi: então mas ele não tem nem o que sua mãe instalado que eu acho
+[20:10:14] Ouvi: então mas ele não tem nenhum porque sua mão instalado que eu acho
+[20:10:23] Ouvi: para que fazer tela pô vou entrar na conta
+[20:10:23] Ouvi: para que fazer tela pô vou entrar na conta
+[20:10:27] Ouvi: então então não tem tela pô
+[20:10:36] Ouvi: não ele quer que você mostre para ele
+[20:10:37] Ouvi: não ele quer que você mostre para ele
+[20:10:41] Ouvi: eita achei não entendeu ainda
+[20:10:41] Ouvi: eita eu achei ele não entendeu ainda
+[20:10:53] Ouvi: não tá vendendo alguma coisa mano
+[20:10:53] Ouvi: não tá vendendo alguma coisa mano
+[20:11:00] Ouvi: caiu mil só na conta ontem
+[20:11:02] Ouvi: tu pensa que eu tô vende
+[20:11:06] Ouvi: tá ligado né
+[20:11:06] Ouvi: tá ligado né
+[20:11:11] Ouvi: gostou mano
+[20:11:11] Ouvi: gostou mano
+[20:11:19] Ouvi: não porra rapariga tá sabendo tu foi tu que pagou
+[20:11:19] Ouvi: não porra rapariga tô sabendo tu foi tu que pagou
+[20:11:37] Ouvi: espirrei via
+[20:11:37] Ouvi: espirrei via
+[20:11:40] Ouvi: caso não tenha escutado
+[20:11:40] Ouvi: caso não tenha escutado
+[20:11:46] Ouvi: isso é uma brasil
+[20:11:46] Ouvi: isso é uma brasil
+[20:12:03] Ouvi: da velha para comida boa
+[20:12:03] Ouvi: da velha para comida boa
+[20:12:06] Ouvi: bla
+[20:12:06] Ouvi: bla
+[20:12:10] Ouvi: vou puxar de raça
+[20:12:10] Ouvi: vou puxar de raça
+[20:12:15] Ouvi: lembrancinha novamente
+[20:12:15] Ouvi: lembrancinha novamente
+[20:12:20] Ouvi: máscara na cara que já dá quebra
+[20:12:21] Ouvi: máscara na cara que já vai quebrada
+[20:12:28] Ouvi: quantos anos nós já lança nove quatro
+[20:12:28] Ouvi: quantos anos nós já lança nove quatro
+[20:12:37] Ouvi: tô falando a hora aqui hein
+[20:12:37] Ouvi: tô falando a hora aqui hein
+[20:12:55] Ouvi: eita que que é isso calma james
+[20:12:55] Ouvi: eita que que é isso calma james
+[20:13:02] Ouvi: eita esse jeito tá
+[20:13:03] Ouvi: jeito assim nego guloso
+[20:13:10] Ouvi: dj sabia que o cara cresceu assim não
+[20:13:18] Ouvi: desejo pedir tapa na cara e tudo mano que que é isso
+[20:13:18] Ouvi: desde pequeno tapa na cara e tudo mano que que é isso
+[20:13:30] Ouvi: seu pai é visto não perdão
+[20:13:30] Ouvi: seu pai é visto no perdão
+[20:13:39] Ouvi: meu deus do céu mano que cara carente mano
+[20:13:39] Ouvi: meu deus do céu mano que cara carente mano
+[20:13:47] Ouvi: radie
+[20:13:47] Ouvi: radie
+[20:14:06] Ouvi: quase
+[20:14:07] Ouvi: quase
+[20:14:16] Ouvi: boquete e tudo mais
+[20:14:16] Ouvi: boquete e tudo mais
+[20:14:19] Ouvi: piriguete falei piriguete
+[20:14:19] Ouvi: piriguete falei piriguete
+[20:14:55] Ouvi: não moleque o peru consigo
+[20:14:56] Ouvi: não moleque o peru consigo ser chamado
+[20:14:59] Ouvi: mais idiota que eu conheço
+[20:14:59] Ouvi: antiga mais idiota que eu conheço
+[20:15:09] Ouvi: ué não tá com falta não
+[20:15:09] Ouvi: ué não tá com falta não
+[20:15:19] Ouvi: no nagato não passa
+[20:15:19] Ouvi: meu gato não passa
+[20:15:26] Ouvi: que
+[20:15:26] Ouvi: que
+[20:15:29] Ouvi: vou deixar tu adivinhar
+[20:15:29] Ouvi: vou deixar tu adivinhar
+[20:15:50] Ouvi: vamos supor que tu passa a conta para ele do nada mano o mistério
+[20:15:50] Ouvi: vamos supor que tu passa a conta para ele do nada mano o mistério
+[20:15:53] Ouvi: nada senhor
+[20:15:53] Ouvi: nada senhor
+[20:15:59] Ouvi: com banco
+[20:15:59] Ouvi: com banco
+[20:16:13] Ouvi: belo dá esse short irmão eu jogo muito isso
+[20:16:13] Ouvi: belo dá esse short irmão eu jogo muito isso
+[20:16:22] Ouvi: ele é ambicioso mano essa ga
+[20:16:22] Ouvi: ele é ambicioso mano essa ga
+[20:16:45] Ouvi: me chamar de
+[20:16:45] Ouvi: me chamar de
+[20:17:05] Ouvi: bandeira
+[20:17:38] Ouvi: ele deve tá conectando na calça
+[20:17:38] Ouvi: ele deve tá conectando na calça
+[20:17:43] Ouvi: tá na cama mas ele não tá nem escutando não consegue falar
+[20:17:43] Ouvi: deitar na cama mas ele não tá nem escutando não consegue falar
+[20:17:49] Ouvi: se não chama internet de padaria
+[20:17:49] Ouvi: se não chama internet de padaria
+[20:18:21] Ouvi: biro meu pics ô bruno tu vai querer comprar pe
+[20:18:21] Ouvi: ô bruno tu vai querer comprar pelúcia lá
+[20:18:29] Ouvi: bom tu não ia querer comprar maluco
+[20:18:29] Ouvi: mano tu não ia querer comprar maluco
+[20:18:33] Ouvi: de novo verde vermelha
+[20:18:34] Ouvi: de novo verde vermelha
+[20:18:45] Ouvi: daqui pouco se fala o mano não tá preparado para falar o quanto essa música é
+[20:18:45] Ouvi: daqui pouco se fala o mano não tá preparado para falar o quanto essa música é
+[20:18:54] Ouvi: ragazzo que está por trás da máscara esse é meu
+[20:18:54] Ouvi: raquete azul que está por trás da máscara esse é meu segredo
+[20:19:09] Ouvi: essa essa aí não dá não
+[20:19:09] Ouvi: essa essa aí não dá não
+[20:19:13] Ouvi: comprar blacklist
+[20:19:16] Ouvi: para blacklist
+[20:19:19] Ouvi: a gente já tá na blacklist ué
+[20:19:32] Ouvi: tenha muito chata nunca me derrotar um pai taipa de
+[20:19:32] Ouvi: tenho muito chata nunca me derrotar um pai taipa de
+[20:19:40] Ouvi: whatsapp da minha vida qual foi a razão
+[20:19:40] Ouvi: whatsapp da minha vida qual foi a razão
+[20:19:45] Ouvi: que nem procurado por traição
+[20:19:45] Ouvi: corpo nu que nem procurado por traição
+[20:19:58] Ouvi: magrinha no café dessa vez
+[20:19:58] Ouvi: magrinha no café dessa vento
+[20:20:03] Ouvi: memória falta áudio
+[20:20:04] Ouvi: memória falta áudio
+[20:20:22] Ouvi: ritmo de água conte-me de água
+[20:20:22] Ouvi: time de água conte-me de água
+[20:20:28] Ouvi: tu que falou que ia fazer um time de água
+[20:20:28] Ouvi: falou que ia fazer um time de água
+[20:20:34] Ouvi: uber tem que aprender a surfar lá
+[20:20:34] Ouvi: o bruno tem que aprender a surfar a falar
+[20:20:36] Ouvi: primeiro passo
+[20:20:37] Ouvi: primeiro passo
+[20:20:44] Ouvi: claro que
+[20:20:44] Ouvi: claro que não
+[20:21:20] Ouvi: ferrari raro não é rar
+[20:21:20] Ouvi: ferrari raro não é rar
+[20:21:23] Ouvi: acho que hoje
+[20:21:23] Ouvi: eu queria achar
+[20:21:29] Ouvi: eu tenho cinco branco e preto eu sou
+[20:21:30] Ouvi: eu tenho cinco branco e preto eu sou
+[20:21:33] Ouvi: quanto vale seu gay
+[20:21:33] Ouvi: quanto vale seu gay
+[20:21:43] Ouvi: nova cara não é possível
+[20:21:43] Ouvi: nova cara não é possível
+[20:21:48] Ouvi: o caiogri corrompida
+[20:21:48] Ouvi: o caiogri corrompida
+[20:21:54] Ouvi: é que ele já tá com meu tá ligado
+[20:21:54] Ouvi: é que já tá com meu tá ligado
+[20:21:57] Ouvi: itambé
+[20:22:06] Ouvi: notebook orgasmo que fica de pau duro aqui escuta
+[20:22:06] Ouvi: notebook orgasmo tipo de pau duro aqui escuta
+[20:22:21] Ouvi: não pediu o quê
+[20:22:21] Ouvi: não pediu aqui
+[20:22:27] Ouvi: a tua
+[20:22:27] Ouvi: a tua
+[20:22:30] Ouvi: comprou
+[20:22:30] Ouvi: comprou
+[20:22:33] Ouvi: vai comprar
+[20:22:33] Ouvi: vai comprar
+[20:22:40] Ouvi: ah então nem gosto mas achei que ia ser por logo
+[20:22:41] Ouvi: ah então nem gosto muito achei que ia ser por logo
+[20:22:45] Ouvi: outro sítio é bom gosto
+[20:22:45] Ouvi: pô tem mano você tinha bom gosto
+[20:23:31] Ouvi: namorada
+[20:23:31] Ouvi: namorada
+[20:23:37] Ouvi: horas buscando para completar nosso plano
+[20:23:37] Ouvi: hora de buscar para completar nosso plano
+[20:23:42] Ouvi: bebendo quem destruir konoha conchinha tem
+[20:23:42] Ouvi: bebendo quem destruir konoha conchinha tem
+[20:23:47] Ouvi: palhaço
+[20:23:47] Ouvi: palhaço
+[20:24:03] Ouvi: pijama de terrorista
+[20:24:03] Ouvi: pijama de terrorista
+[20:24:14] Ouvi: uma terra onde a chuva sempre cai
+[20:24:14] Ouvi: uma terra onde a chuva sempre cai
+[20:24:18] Ouvi: anjo de
+[20:24:18] Ouvi: anjo de
+[20:24:37] Ouvi: quer me pagar até os meses também
+[20:24:37] Ouvi: querendo pagar até os meses também
+[20:24:40] Ouvi: então
+[20:24:40] Ouvi: então
+[20:24:51] Ouvi: galeria pulando
+[20:24:51] Ouvi: galeria pulando
+[20:24:54] Ouvi: psicopata
+[20:24:54] Ouvi: psicopata
+[20:24:59] Ouvi: o assassino solit
+[20:24:59] Ouvi: o assassino solit
+[20:25:05] Ouvi: sinto prazer em solidão curar ninguém
+[20:25:05] Ouvi: sinto presente eu lhe dou curar ninguém
+[20:25:12] Ouvi: pau torto mole no frio que fica
+[20:25:12] Ouvi: pau torto mole no frio que fica pequeno
+[20:25:16] Ouvi: abrir o meu fantoche e vai
+[20:25:16] Ouvi: meu fantoche vai
+[20:25:45] Ouvi: pode ela é muito boa contra quem ruim
+[20:25:45] Ouvi: pode ela é muito boa contra equipe ruim
+[20:25:52] Ouvi: onde eu encontrei que roubo nessa tira é muito bom
+[20:25:52] Ouvi: onde eu encontrei que roubo nessa tira é muito bom
+[20:25:55] Ouvi: não é loucura
+[20:25:58] Ouvi: não é loucura não vai dar bom viado tô te falando
+[20:26:01] Ouvi: falando ela é nessa tira ela é só
+[20:26:15] Ouvi: qual o problema pai qual foi da marola do dr
+[20:26:15] Ouvi: qual o problema pai qual foi da marola do dr
+[20:26:21] Ouvi: qual o fundador como é que é
+[20:26:21] Ouvi: qual a função da como é que é
+[20:26:29] Ouvi: dar
+[20:26:30] Ouvi: deidara
+[20:26:43] Ouvi: no mundo se explo
+[20:26:43] Ouvi: no mundo se explo
+[20:26:46] Ouvi: eu tenho mano
+[20:26:46] Ouvi: eu tenho mano
+[20:26:53] Ouvi: tem mais dois ainda cheia de pokémon
+[20:26:53] Ouvi: tenho mais dois ainda cheio de pokémon
+[20:26:56] Ouvi: e se eu tivesse
+[20:26:56] Ouvi: e se eu tivesse
+[20:27:03] Ouvi: sei lá mano pronto virou acho que todo mundo é
+[20:27:03] Ouvi: sei lá mano pronto o pior acho que todo mundo é
+[20:27:25] Ouvi: vai errar porque o foxy blast ignora a habilidade do pedro ra
+[20:27:25] Ouvi: vai errar porque o foxy blast ignora a habilidade do pedro ra
+[20:27:32] Ouvi: rena
+[20:27:32] Ouvi: menina
+[20:28:05] Ouvi: você tá chamando o zap quero de zé pequeno
+[20:28:05] Ouvi: você tá chamando o zap pequeno de zé pequeno
+[20:28:13] Ouvi: entrei para frente do jiu-jitsu praia
+[20:28:13] Ouvi: entrei para frente do jiu-jitsu praia
+[20:28:19] Ouvi: cada sete anos perderam de sucu
+[20:28:19] Ouvi: a cada 7 anos perderam de sucuna
+[20:28:22] Ouvi: as vaga
+[20:28:32] Ouvi: pesquisadores malignos já que tu queres conflito toma
+[20:28:32] Ouvi: episódios malignos já que tu queres conflito toma
+[20:28:38] Ouvi: conflito toma sente a pressão da expansão do meu pinto sai carai
+[20:28:38] Ouvi: frito toma 7 a pressão da expansão do meu pinto sai carai
+[20:28:55] Ouvi: ele é da família cu
+[20:28:55] Ouvi: ele é da família cu
+[20:28:59] Ouvi: uma maldição no
+[20:28:59] Ouvi: uma maldição no
+[20:29:14] Ouvi: wesley no pau e no azul ela vem de novo
+[20:29:15] Ouvi: wesley no pau e no azul ela vem de novo
+[20:29:20] Ouvi: consigo tô olha
+[20:29:20] Ouvi: consigo olhar
+[20:31:48] Ouvi: botar cara rajada matei 360
+[20:31:48] Ouvi: botar cara rajada matei 360
+[20:32:55] Ouvi: comeu
+[20:32:55] Ouvi: comeu
+[20:33:03] Ouvi: moto pc igual o meu
+[20:33:03] Ouvi: moto pc igual o meu
+[20:33:15] Ouvi: de moto de moto meu pc toda hora
+[20:33:15] Ouvi: de moto de moto meu pc toda hora
+[20:33:22] Ouvi: não confia não vira não que o biro tá sem
+[20:33:22] Ouvi: não confia não vira não que o biro tá sem
+[20:33:27] Ouvi: o que é minha configuração do meu pc via
+[20:33:27] Ouvi: o que é minha configuração do meu pc via
+[20:33:31] Ouvi: pô foda
+[20:33:37] Ouvi: pega a roda pô
+[20:33:38] Ouvi: pega a roda pô
+[20:33:41] Ouvi: só que é um pouquinho mais 5000
+[20:33:42] Ouvi: só que é um pouquinho mais de 5.000
+[20:33:49] Ouvi: é um pouquinho mais que 5.000
+[20:33:57] Ouvi: é um pouquinho mais que 5.000
+[20:34:00] Ouvi: tipo 5000 é minha placa de vídeo
+[20:34:06] Ouvi: aí o resto
+[20:34:08] Ouvi: aí o resto é um
+[20:34:10] Ouvi: 5 o resto inteiro
+[20:34:15] Ouvi: um só
+[20:34:16] Ouvi: um só
+[20:34:23] Ouvi: ah não google como monitor é um e
+[20:34:24] Ouvi: ah não que outra como monitor é 1.6
+[20:34:34] Ouvi: ryzen 75700 g
+[20:34:34] Ouvi: ryzen 75700
+[20:34:37] Ouvi: vou trocar agora
+[20:34:41] Ouvi: pegar o reginaldo participar
+[20:34:58] Ouvi: sapataria do mato
+[20:35:04] Ouvi: mano vou quitar aqui rapaziada tamo
+[20:35:04] Ouvi: mano vou clicar aqui rapaziada tamo junto
+[20:35:07] Ouvi: maior preguiça mas não quero ficar deitado
+[20:35:08] Ouvi: uma preguiça mano quero ficar deitada
+[20:35:11] Ouvi: tem nada para fazer eu ficar vendo
+[20:35:14] Ouvi: tem nada para fazer eu ficar vendo vídeo
+[20:35:18] Ouvi: se você estiver aí mais tarde eu colo
+[20:35:19] Ouvi: é nóis valeu
+[00:08:24] Ouvi: tá colecionar figurinha velho tá colecionando álbum
+[00:08:24] Ouvi: tá colecionar figurinha velho tá colecionando álbum
+[00:08:32] Ouvi: então deixa
+[00:08:32] Ouvi: então deixa
+[00:08:35] Ouvi: toma o link aquele dia
+[00:08:35] Ouvi: toma o link é que dia
+[00:08:39] Ouvi: figurinhas por 535
+[00:08:39] Ouvi: 100 figurinhas por 535
+[00:08:47] Ouvi: é isso aí cinco sai 5:35 cada fig
+[00:08:47] Ouvi: é isso aí 5 sai 5:35 cada figur
+[00:08:55] Ouvi: futebol americano carlos
+[00:08:55] Ouvi: futebol americano carlos
+[00:09:02] Ouvi: papo reto dá mesmo
+[00:09:02] Ouvi: papo reto não é mesmo
+[00:09:07] Ouvi: às 6:50
+[00:09:07] Ouvi: às 6:50
+[00:09:23] Ouvi: e agora
+[00:09:23] Ouvi: e agora
+[00:09:36] Ouvi: quer que eu tava dormindo já né amor eu nem ia
+[00:09:36] Ouvi: quer que eu tava dormindo já né amor eu nem ia
+[00:09:40] Ouvi: eu dormi e acordei
+[00:09:41] Ouvi: eu dormi e acordei
+[00:09:47] Ouvi: tava eu tava online
+[00:09:47] Ouvi: tava eu tava online
+[00:09:50] Ouvi: deixa para você ligar
+[00:09:50] Ouvi: deixa para você ligar
+[00:10:04] Ouvi: black 200 conto hoje para ficar deitado
+[00:10:04] Ouvi: black l200 controles para ficar deitado
+[00:10:07] Ouvi: papo reto
+[00:10:07] Ouvi: papo reto
+[00:10:24] Ouvi: novo alarme para free fire com meu padrasto que
+[00:10:24] Ouvi: novo alarme
+[00:10:36] Ouvi: do ar condicionado aí
+[00:10:41] Ouvi: obrigado né pai
+[00:10:54] Ouvi: a minha mãe experimentadora aí a chefe dela trabalha
+[00:10:54] Ouvi: a minha mãe experimentadora a chefe dela trabalha
+[00:10:58] Ouvi: são muito amigas a muito tempo e
+[00:10:58] Ouvi: são muito amigas a muito tempo e
+[00:11:03] Ouvi: nenhum curso de lavador de medicina
+[00:11:03] Ouvi: inconsciente em um curso lá banco de medicina
+[00:11:07] Ouvi: e nisso
+[00:11:07] Ouvi: e nisso
+[00:11:11] Ouvi: ia ser prova prática
+[00:11:11] Ouvi: ia ser prova prática
+[00:11:15] Ouvi: aí nisso
+[00:11:15] Ouvi: aí nisso
+[00:11:21] Ouvi: tipo só ficava deitada elas pegava o gel passava gel e tipo
+[00:11:21] Ouvi: tipo só ficava deitada elas pegava o gel passava gel e tipo
+[00:11:27] Ouvi: tipo passou no bíceps ficava passando os
+[00:11:27] Ouvi: passando bíceps ficava passando os músculos
+[00:11:33] Ouvi: aí tipo ela falava lá o nome e fala me mostra onde é sei
+[00:11:33] Ouvi: tipo ela falava lá o nome e fala me mostra onde é sei lá alguma coisa
+[00:11:39] Ouvi: 7 ela tinha que ir lá passar o negócio que ele tá custando
+[00:11:39] Ouvi: ela tinha que ir lá passar o negócio que ele tava costela para lucas negócio
+[00:11:45] Ouvi: só falava vira de costas ok ela vire de frente agora fica de lado
+[00:11:46] Ouvi: vida de costa ok ela vira de frente agora fica de lado bota
+[00:11:49] Ouvi: tipo por 2 horas
+[00:11:49] Ouvi: tipo por 2 horas
+[00:11:55] Ouvi: 2:30
+[00:11:55] Ouvi: 2:30 eu te conto
+[00:12:09] Ouvi: como acontece né mano
+[00:12:09] Ouvi: como acontece né mano
+[00:12:16] Ouvi: de que veio mais barato que meia
+[00:12:16] Ouvi: de que veio mais muito barato senhora
+[00:12:18] Ouvi: tá ligado
+[00:12:39] Ouvi: tá louco com certeza
+[00:12:39] Ouvi: tá louco com certeza
+[00:12:45] Ouvi: quiser me chamar todo dia eu vou pô 200 tá louco
+[00:12:45] Ouvi: ele vai me chamar todo dia eu vou pô 200 conto por ele tá louco
+[00:12:50] Ouvi: escola vai até pelado
+[00:12:51] Ouvi: escola vai até pelado
+[00:12:59] Ouvi: ah não tinha aberto o jogo ainda como a gente abrir
+[00:12:59] Ouvi: ah não tinha aberto o jogo ainda que eu vou te abrir
+[00:13:03] Ouvi: nem tem mano
+[00:13:09] Ouvi: nenhuma para tirar você tipo é só apertar em criar o servidor botar o nome acabou
+[00:13:09] Ouvi: nenhuma para tirar você tipo é só apertar em criar o servidor botar o nome acabou
+[00:13:30] Ouvi: ansiedade
+[00:13:53] Ouvi: mano sinal de velocidade real
+[00:13:53] Ouvi: banda sinop velocidade de real
+[00:14:08] Ouvi: chamei
+[00:14:08] Ouvi: chamei
+[00:14:26] Ouvi: filmes de caçadores um tempo de espera de caça
+[00:14:27] Ouvi: filmes de caçadores um tempo de espera de caça
+[00:14:33] Ouvi: posso pintar
+[00:14:34] Ouvi: é para se pensar 100 segundos para se pintar
+[00:14:40] Ouvi: vou deixar 30 segundos para
+[00:14:41] Ouvi: vou deixar 30 segundos para
+[00:14:44] Ouvi: não vou mostrar
+[00:14:44] Ouvi: não vou mostrar
+[00:14:48] Ouvi: mapa aleatório
+[00:14:48] Ouvi: mapa aleatório
+[00:14:52] Ouvi: tem tem um mapa novo
+[00:14:52] Ouvi: tem tem um mapa novo
+[00:14:59] Ouvi: débora terra do açúcar o moleque o
+[00:15:00] Ouvi: terra do açúcar moleque o
+[00:15:19] Ouvi: só só porque chegou assim
+[00:15:19] Ouvi: só só porque chegou assim
+[00:15:29] Ouvi: nada não tô vendo ah tá agora que eu vi tô aqui em cima
+[00:15:30] Ouvi: eu não tô vendo ah tá agora que eu vi tô aqui em cima nem
+[00:15:59] Ouvi: algo gostoso ma
+[00:15:59] Ouvi: ah gostoso ma
+[00:16:04] Ouvi: por que tu não gosta de namorar alguma não tem nem sentido
+[00:16:04] Ouvi: por que tu não gosta de ouvir morango não tem nem sentido
+[00:16:12] Ouvi: são os dois tipos são os dois únicos que tipo praticamente todo mundo
+[00:16:12] Ouvi: são os dois tipos são os dois únicos que tipo praticamente todo mundo
+[00:16:18] Ouvi: convidei
+[00:16:18] Ouvi: convidei
+[00:16:28] Ouvi: não tem nada
+[00:16:28] Ouvi: não tem nada
+[00:16:35] Ouvi: aperta não tem senha
+[00:16:35] Ouvi: aperta não tem senha
+[00:16:41] Ouvi: não tem senha
+[00:16:41] Ouvi: não tem senha
+[00:16:49] Ouvi: independente hoje
+[00:16:49] Ouvi: independente hoje
+[00:17:00] Ouvi: nada já
+[00:17:00] Ouvi: nada já
+[00:17:07] Ouvi: ou então é hora né de uma quarta-feira
+[00:17:07] Ouvi: ou então é hora né de uma quarta-feira
+[00:17:12] Ouvi: quinta-feira meia-noite
+[00:17:12] Ouvi: leva quinta-feira meia-noite
+[00:17:17] Ouvi: só a gente tá de férias já
+[00:17:17] Ouvi: só a gente tá de férias já
+[00:17:25] Ouvi: vou sim vou ainda
+[00:17:28] Ouvi: me espera lá
+[00:17:28] Ouvi: me espera lá
+[00:17:35] Ouvi: deixa eu ver então
+[00:17:35] Ouvi: deixa eu ver então
+[00:17:41] Ouvi: tira o nome do servidor inserir
+[00:17:42] Ouvi: tira o nome do servidor inserir
+[00:17:48] Ouvi: ah não botei nenhuma ta
+[00:17:48] Ouvi: ah não botei nenhuma tag
+[00:17:51] Ouvi: amanhã
+[00:17:51] Ouvi: amanhã
+[00:17:58] Ouvi: não escreve eu vou botar te
+[00:17:58] Ouvi: não escreve eu vou botar te
+[00:18:04] Ouvi: n7 bem-vindos todos são bem-vindos diversão
+[00:18:04] Ouvi: n7 bem-vindos todos são bem-vindos diversão
+[00:18:09] Ouvi: manda uma foto no modo de infecção
+[00:18:09] Ouvi: manda uma foto no modo de infecção
+[00:18:15] Ouvi: apenas mestres das pinturas na turquia
+[00:18:15] Ouvi: apenas mestre das pinturas na turquia
+[00:18:21] Ouvi: será que esse nome tá muito escroto
+[00:18:22] Ouvi: será que esse nome tá muito escroto
+[00:18:25] Ouvi: famosas mais tur
+[00:18:30] Ouvi: entende não
+[00:18:30] Ouvi: entende não
+[00:18:42] Ouvi: viado sabe uma coisa que aconteceu
+[00:18:42] Ouvi: viado sabe uma coisa que aconteceu
+[00:18:47] Ouvi: tudo no gráfico tudo no baixo meu jogo não passava
+[00:18:47] Ouvi: tudo no gráfico tudo no baixo meu jogo não passava
+[00:18:51] Ouvi: eu botei tudo no alto ele tá em 200
+[00:18:51] Ouvi: é que eu botei tudo no alto ele tá em 200
+[00:19:12] Ouvi: programar
+[00:19:32] Ouvi: passa o último projeto nossa tá perguntando mesmo
+[00:19:32] Ouvi: passa o último projeto nossa tá perguntando mesmo
+[00:19:37] Ouvi: qual projeto está fazendo
+[00:19:37] Ouvi: qual projeto está fazendo
+[00:19:43] Ouvi: vai vender robux você não vai
+[00:19:43] Ouvi: vai vender robux você não vai
+[00:19:50] Ouvi: eu já falei mano a gente tem que criar um site
+[00:19:50] Ouvi: eu já falei mano a gente tem que criar um site
+[00:19:52] Ouvi: clona
+[00:19:59] Ouvi: cuida da kailane
+[00:19:59] Ouvi: convida a kailane
+[00:20:04] Ouvi: minecraft 150
+[00:20:29] Ouvi: não aqui não tem ninguém entrando mano
+[00:20:29] Ouvi: não aqui não tem ninguém entrando mano oxe
+[00:20:33] Ouvi: aí ó só faltava alguém entrar
+[00:20:33] Ouvi: só faltava alguém entrar
+[00:20:39] Ouvi: achei só faltava a kaila
+[00:20:39] Ouvi: achei só faltava a ka
+[00:20:42] Ouvi: grupo para criar
+[00:20:42] Ouvi: grupo para criar
+[00:20:50] Ouvi: então puta você deu certo
+[00:20:53] Ouvi: não muita coisa
+[00:20:53] Ouvi: não muita coisa
+[00:20:57] Ouvi: meu deus do céu
+[00:20:57] Ouvi: meu deus do céu
+[00:21:00] Ouvi: tá falando naquele ra
+[00:21:00] Ouvi: quem tá falando naquele ra
+[00:21:13] Ouvi: valeu pai valeu bordo
+[00:21:13] Ouvi: valeu pai valeu a voz doce
+[00:21:20] Ouvi: valeu pô tamo junto a vó do amigo quer
+[00:21:20] Ouvi: valeu pô tamo junto a vó do amigo quer
+[00:21:23] Ouvi: de locutor
+[00:21:23] Ouvi: locutor
+[00:21:33] Ouvi: vídeo
+[00:21:38] Ouvi: tabuleiro xad
+[00:21:44] Ouvi: 2345678
+[00:21:45] Ouvi: 2345678
+[00:21:53] Ouvi: pouco de aparecer quantos players tem ainda
+[00:21:53] Ouvi: pouco de aparecer quantos players tem ainda
+[00:22:03] Ouvi: pô ele não usa
+[00:22:03] Ouvi: oi não usa
+[00:22:12] Ouvi: ele pegou a mega evolução normal
+[00:22:12] Ouvi: pegou minha evolução normal
+[00:22:18] Ouvi: um dois três quatro cinco seis sete oito nove dez
+[00:22:18] Ouvi: 23456789 10
+[00:22:26] Ouvi: 202122 23242526 2728293
+[00:22:27] Ouvi: 202122 23242526 2728293
+[00:22:31] Ouvi: vou começar mano vou começar
+[00:22:31] Ouvi: vou começar amanhã vou começar
+[00:22:39] Ouvi: queria trocar o bulbassauro no charizard
+[00:22:39] Ouvi: queria trocar o pássaro no charizard
+[00:22:43] Ouvi: você traz aí tem uns
+[00:22:47] Ouvi: minha irmã não gosta dele eu vou comprar um
+[00:22:47] Ouvi: mano eu gosto dele eu vou comprar um
+[00:22:55] Ouvi: aquele google acerola vale
+[00:22:55] Ouvi: aquele google acerola vale
+[00:23:01] Ouvi: deve tá achando que eu sou otário
+[00:23:01] Ouvi: deve tá achando que eu sou otário
+[00:23:05] Ouvi: eu que me pinto mano ela
+[00:23:05] Ouvi: eu que me pinto mano tá lá
+[00:23:17] Ouvi: nossa acho que eu não
+[00:23:21] Ouvi: esqueci de mexer no tempo viado
+[00:23:21] Ouvi: mexer no tempo mano esqueci de mexer no tempo viado
+[00:23:25] Ouvi: ah então puxa api perdão
+[00:23:25] Ouvi: ah então puxa para pedir perdão
+[00:24:26] Ouvi: consegue pintar mano
+[00:24:26] Ouvi: fazendo inventar mano
+[00:24:36] Ouvi: todos escondendo
+[00:24:36] Ouvi: esconder irmão
+[00:24:43] Ouvi: esqueci de configurar a sala mano
+[00:24:44] Ouvi: esqueci de configurar a sala mano
+[00:24:49] Ouvi: baixar tema ainda bem que tá no bagulho de ficção
+[00:24:49] Ouvi: chapei mano ainda bem que tá no bagulho de ficção
+[00:25:32] Ouvi: tem alguém aqui
+[00:25:32] Ouvi: tem alguém aqui
+[00:25:38] Ouvi: tem aqui acho que ia subir quando sou maluca
+[00:25:38] Ouvi: tem aqui hoje tu ia subir não sou maloka
+[00:25:43] Ouvi: não sei tem que ver
+[00:25:43] Ouvi: não sei tem que envolver
+[00:26:00] Ouvi: parece desenho
+[00:26:08] Ouvi: achei
+[00:26:08] Ouvi: achei
+[00:26:14] Ouvi: então eu tô na presença não
+[00:26:14] Ouvi: então eu tô na presença não
+[00:26:20] Ouvi: vamos vamos buscar a kailane
+[00:26:20] Ouvi: vamos vamos buscar a kailane
+[00:26:27] Ouvi: espn deve ter urgente aqui ó
+[00:26:27] Ouvi: espn deve ter urgente aqui ó
+[00:26:52] Ouvi: assobia não mano tem medo
+[00:26:52] Ouvi: rodovia não mano tem medo
+[00:27:03] Ouvi: esqueci de que eu resetei a sala e não configurei
+[00:27:03] Ouvi: eu esqueci tipo eu resetei a sala e não configurei
+[00:27:10] Ouvi: uma próxima vai ter no rela
+[00:27:10] Ouvi: mapa de 90
+[00:27:19] Ouvi: grupo
+[00:27:25] Ouvi: final da saliente no cavalo
+[00:27:25] Ouvi: final da saliente no cavalo
+[00:27:30] Ouvi: cadê rapaziada vamos assobiar aí
+[00:27:31] Ouvi: cadê rapaziada vamos assobiar aí pô
+[00:27:56] Ouvi: cartão americanas
+[00:28:14] Ouvi: tá por aqui
+[00:28:14] Ouvi: tá por aqui
+[00:28:23] Ouvi: vai estar no chão de novo
+[00:28:33] Ouvi: aparelho tinha outra mesma coisa
+[00:28:49] Ouvi: batman perde
+[00:28:49] Ouvi: batman perde
+[00:29:03] Ouvi: mentira onde estava o cara o cara tava muito ruim
+[00:29:03] Ouvi: mentira a gente tava caro o cara tava muito ruim
+[00:29:09] Ouvi: que é isso mano tá muito ruim pai
+[00:29:09] Ouvi: que é isso mano tá muito ruim pai
+[00:29:18] Ouvi: ele nitidamente não é
+[00:29:18] Ouvi: ele nitidamente não é
+[00:29:22] Ouvi: ele tá forçando muito boa
+[00:29:22] Ouvi: ele tá forçando muito boa
+[00:29:25] Ouvi: configurar certo agora
+[00:29:25] Ouvi: configurar certo agora
+[00:29:54] Ouvi: vou botar nessa terra terra terra terra terra terra do açúcar daqui para ver como é que é
+[00:29:54] Ouvi: botar nessa terra terra terra terra terra do açúcar daqui para ver como é que
+[00:29:57] Ouvi: agora tá configurado
+[00:29:57] Ouvi: agora tá configurado o
+[00:30:03] Ouvi: te chamei
+[00:30:03] Ouvi: te amei
+[00:30:17] Ouvi: é o carinha
+[00:30:17] Ouvi: é o carinha
+[00:30:29] Ouvi: mapa
+[00:30:29] Ouvi: mapa
+[00:30:40] Ouvi: não desculpa mãe
+[00:30:40] Ouvi: não desculpa amor
+[00:30:49] Ouvi: nome
+[00:30:49] Ouvi: nome
+[00:31:11] Ouvi: mete o louco não
+[00:32:15] Ouvi: sim configuração cada 30 segundos
+[00:32:15] Ouvi: sim configuração cada 30 segundos
+[00:32:56] Ouvi: que susto pensei que tu tava aqui o maluco
+[00:32:56] Ouvi: que susto achei que tu tava aqui o mal
+[00:33:02] Ouvi: biscoito que eu tô brincando ué mas eu tirei esse rank mano
+[00:33:02] Ouvi: biscoito que eu tô tô brincando mãe mas eu tirei esse rank mano
+[00:33:04] Ouvi: ra
+[00:33:04] Ouvi: aparece para tu o rank
+[00:33:08] Ouvi: ah tá que susto então é por isso
+[00:33:08] Ouvi: ah tá que susto então é por isso
+[00:33:12] Ouvi: gigante perdão desculpa
+[00:33:12] Ouvi: gigante perdão são desculpa
+[00:33:17] Ouvi: notícias da ciência
+[00:33:17] Ouvi: notícias da ciência
+[00:33:23] Ouvi: nem se esforçou para
+[00:33:23] Ouvi: matando aí o amigo ainda nem se esforçou para
+[00:33:29] Ouvi: lugar nem teve um esforço mínimo para
+[00:33:30] Ouvi: lugar nem teve um esforço mínimo para
+[00:33:33] Ouvi: o bagulho doido do peru ju
+[00:33:33] Ouvi: o bagulho doido tu pediu
+[00:33:37] Ouvi: quero cara
+[00:33:45] Ouvi: tem muito respeito né
+[00:33:45] Ouvi: tem muito respeito né
+[00:33:50] Ouvi: a pica mais famosa
+[00:33:51] Ouvi: a pica mais famosa do youtube
+[00:34:00] Ouvi: sem desculpas para você caiu né
+[00:34:00] Ouvi: sem desculpas para você caiu né
+[00:34:05] Ouvi: eu retiro minha
+[00:34:05] Ouvi: eu retiro minha
+[00:34:13] Ouvi: aceitar elas
+[00:34:20] Ouvi: ativar mais famosa do seu grupo
+[00:34:21] Ouvi: antiga mais famosa do seu grupo
+[00:34:42] Ouvi: moleque essa abelha mano tem uma abelha
+[00:34:42] Ouvi: moleque essa abelha mano tem uma abelha
+[00:34:48] Ouvi: 218 pontos no antigo tem alguém olhando muito para ela
+[00:34:48] Ouvi: 218 pontos no antigo tem alguém olhando muito para ela
+[00:34:52] Ouvi: muito para alguém e você não está conseguindo ver
+[00:34:52] Ouvi: pergunta para alguém e ela você não tá conseguindo ver
+[00:34:55] Ouvi: tenho certeza
+[00:34:55] Ouvi: eu tenho certeza
+[00:35:02] Ouvi: ah tá aí mano tipo em algum lugar que você está conseguindo muito ver ela na tua
+[00:35:02] Ouvi: ah tá aí mano tipo em algum lugar que você está conseguindo muito ver ela na tua
+[00:35:10] Ouvi: falta de afeto eu estou te afirmando
+[00:35:11] Ouvi: pronto já fez eu estou te afirmando
+[00:35:17] Ouvi: pense bem
+[00:35:17] Ouvi: pense bem
+[00:35:22] Ouvi: não talvez não tá no pirulito atrás da isso
+[00:35:22] Ouvi: não talvez não tá no pirulito atrás da isso
+[00:35:29] Ouvi: vê se não tá aqui atrás desse dessa montanha de com chocolate você não tá atrás da
+[00:35:29] Ouvi: vê se não tá aqui atrás desse dessa montanha com chocolate você não tá atrás da
+[00:35:35] Ouvi: a câmera é livre irmão
+[00:35:35] Ouvi: a câmera é livre irmão
+[00:35:40] Ouvi: garota te ajudou não maluco
+[00:35:40] Ouvi: garota te ajudou não maluco
+[00:35:48] Ouvi: black dog olhando muito para outra pessoa também sem nome nossa senhora mano vocês são
+[00:35:48] Ouvi: black dog olhando muito para outra pessoa também sem nome nossa senhora mano vocês são muito
+[00:35:56] Ouvi: será se escondeu no mesmo lugar kaila
+[00:35:56] Ouvi: será se escondeu no mesmo lugar kayla
+[00:36:18] Ouvi: vocês só vocês dois mano
+[00:36:18] Ouvi: vocês são vocês dois mano
+[00:36:23] Ouvi: então perdão não sabia acreditei não
+[00:36:23] Ouvi: então perdão não sabia acreditei não
+[00:37:17] Ouvi: alessandra do pirulito dos pirulito santos
+[00:37:25] Ouvi: o santo do pirulito aqui cara
+[00:37:25] Ouvi: o santo do pirulito aqui cara
+[00:37:33] Ouvi: fale minha tela
+[00:37:47] Ouvi: mentira que aconteceu
+[00:37:47] Ouvi: mentira que aconteceu
+[00:37:54] Ouvi: não meu bagulho
+[00:37:54] Ouvi: não meu bagulho
+[00:38:06] Ouvi: minha tela
+[00:38:06] Ouvi: minha tela
+[00:38:21] Ouvi: batata preta tipo um bagulho preto da tela tá ligado não tá carregando
+[00:38:21] Ouvi: metal tá preto tipo um bagulho preto da tela tá ligado não tá carregando
+[00:38:28] Ouvi: nossa agora não consigo mexer em nada
+[00:38:28] Ouvi: nossa agora não consigo mexer em nada
+[00:38:35] Ouvi: para miguel aí para começar o jogo atlético
+[00:38:35] Ouvi: para miguel aí para começar o jogo atlético
+[00:38:42] Ouvi: não fica
+[00:38:47] Ouvi: hein eu tenho que ir para onde para esquerda ou para direita
+[00:38:47] Ouvi: hein eu tenho que ir para onde para esquerda ou para direita
+[00:39:26] Ouvi: eu tô no botão
+[00:39:26] Ouvi: eu tô no botão
+[00:40:01] Ouvi: na câmera
+[00:40:01] Ouvi: na câmera
+[00:40:10] Ouvi: não tá apertando
+[00:40:10] Ouvi: não tá apertando
+[00:40:15] Ouvi: ah tá
+[00:40:15] Ouvi: ah tá
+[00:40:27] Ouvi: merda
+[00:40:31] Ouvi: merda mano
+[00:40:31] Ouvi: merda mano
+[00:40:45] Ouvi: não vai parar
+[00:40:47] Ouvi: vai sair
+[00:40:47] Ouvi: não vai sair
+[00:40:59] Ouvi: mesmo mãe tomando remédio não quer sair viado
+[00:41:00] Ouvi: do mesmo mãe tomando remédio não quer sair viado
+[00:41:15] Ouvi: acho ele é surdo
+[00:41:17] Ouvi: gordo você não tá estudando não essa merda
+[00:41:24] Ouvi: a mamãe disse a pc caiu aí rapidão
+[00:41:27] Ouvi: escutou
+[00:41:27] Ouvi: escutou
